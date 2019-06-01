@@ -1,0 +1,72 @@
+html{
+    height: 100%
+}
+body{
+    height: 100%
+}
+#titulo{
+    font-size: 50px;
+    border-bottom: 10px solid black;
+    text-align: center;
+    padding: 25px;
+    background-color: maroon;
+    clear: both;
+}
+#menu{
+    background-color: lightgray;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+    float: left;
+    padding: 25px;
+    font-size: 20px;
+    width: 25%;
+    box-sizing: border-box;
+}
+section{
+    text-align: center;
+    float: right;
+    font-size: 20px;
+    padding: 25px;
+    width: 72%;
+    min-height: 80%;
+}
+footer{
+    background-color: #000;
+    color: #F2FFFC;
+    padding: 20px;
+    clear: both;
+    position: fixed;
+    bottom: 0;   
+    width: 100%;
+}
+.exemplo7{
+    text-align: center;
+    color: red;
+    font-size: 50px;
+}
+.exemplo8{
+    text-align: center;
+    color: red;
+    font-size: 50px;
+}
+div{
+    width: 120px;
+    height: 120px;
+}
+#div131{
+    background-color: royalblue;
+    display: none;
+}
+#div132{
+    background-color: blueviolet;
+}
+#div133{
+    background-color: skyblue;
+    display: none;
+}
+#div134{
+    background-color: deepskyblue;
+}
+#div14{
+    background-color: darkred;
+}
